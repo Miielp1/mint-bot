@@ -1,0 +1,6 @@
+.env
+node_modules/
+state.json
+CANCELLED
+*.log
+.DS_Store
